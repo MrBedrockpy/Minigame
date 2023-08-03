@@ -1,0 +1,8 @@
+name: Minigame
+version: '${project.version}'
+main: me.mrbedrockpy.minigame.Plugin
+api-version: '1.16'
+
+commands:
+  start:
+    description: начинает игру
